@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I also made a website for practicing Japanese for our Japanese language department, as a volunteer project. Link:  http://horvathtom.com/jp/practice/
+I also made a website for practicing Japanese for our Japanese language department, as a volunteer project. 
+Link: http://horvathtom.com/jp/practice/
 
 ## License
 
