@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I also made a website for practicing Japanese for our Japanese language department, as a volunteer project. Link:  http://horvathtom.com/jp/practice/
 
 ## License
 
